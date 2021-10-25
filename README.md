@@ -6,6 +6,7 @@ This is the project from the Svelte crash course on my channel
 
 # Install dependencies
 npm install
+just do it 
 
 # Dev server
 npm run dev (http://localhost:5000)
